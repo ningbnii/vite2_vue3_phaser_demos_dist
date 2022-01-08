@@ -1,0 +1,1 @@
+import"./vue.e715d1a9.js";import{_ as e}from"./index.78f04a8b.js";import{o as r,t}from"./@vue.ee23555d.js";import"./vue-router.56fc6f5b.js";import"./vant.0fba2690.js";import"./@vant.684ceb34.js";const o={};function n(a,s){return r(),t("div",null,"index.vue")}var u=e(o,[["render",n]]);export{u as default};
