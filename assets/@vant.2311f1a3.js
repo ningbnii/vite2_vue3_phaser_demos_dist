@@ -1,1 +1,0 @@
-import"./vue.8179fce5.js";import{r as t}from"./@vue.5b16b455.js";const r=typeof window!="undefined";let e,n;function s(){if(!e&&(e=t(0),n=t(0),r)){const i=()=>{e.value=window.innerWidth,n.value=window.innerHeight};i(),window.addEventListener("resize",i,{passive:!0}),window.addEventListener("orientationchange",i,{passive:!0})}return{width:e,height:n}}export{s as u};
